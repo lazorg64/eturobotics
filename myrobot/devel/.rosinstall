@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lazorg/my_ros_package/myrobot/devel/setup.sh
