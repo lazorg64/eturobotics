@@ -13,6 +13,10 @@ std_msgs/String.h
 /home/lazorg/my_ros_package/myrobot/src/std_msgs/String.h
 sstream
 -
+iostream
+-
+string
+-
 
 /opt/ros/indigo/include/XmlRpcDecl.h
 ros/macros.h
