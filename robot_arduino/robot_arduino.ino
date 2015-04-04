@@ -47,8 +47,6 @@ void messageCb( const std_msgs::String& toggle_msg){
       input[i] = toggle_msg.data[i];
     ptr = &input[1];
     sscanf(ptr,"%d",&angle);
-    int_msg.data = angle;
-    chatter.publish( &int_msg );
     myservo.write(angle);
     break;
     case 't':
@@ -99,8 +97,8 @@ void setup()
 {       
   motor.run(RELEASE);
   motor2.run(RELEASE);
-  motor.setSpeed(70);
-  motor2.setSpeed(70);
+  motor.setSpeed(80);
+  motor2.setSpeed(80);
   myservo.attach(10);
   myservo.write(90);
   memset(input,0,15);

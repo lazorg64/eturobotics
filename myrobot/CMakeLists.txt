@@ -20,6 +20,7 @@ find_package(PCL 1.3 REQUIRED)
 include_directories(${PCL_INCLUDE_DIRS})
 link_directories(${PCL_LIBRARY_DIRS})
 add_definitions(${PCL_DEFINITIONS})
+find_package(catkin REQUIRED COMPONENTS tf)
 
 #uncomment if you have defined messages
 #rosbuild_genmsg()
@@ -34,3 +35,4 @@ add_definitions(${PCL_DEFINITIONS})
 #rosbuild_add_executable(example examples/example.cpp)
 #target_link_libraries(example ${PROJECT_NAME})
 rosbuild_add_executable(connector src/connector.cpp)
+target_link_libraries(connector ${catkin_LIBRARIES})

@@ -1,0 +1,4 @@
+<launch>
+	<param name="robot_description" command="cat $(find myrobot)/robot.xml" />
+
+</launch>

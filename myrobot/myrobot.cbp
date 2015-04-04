@@ -5,7 +5,7 @@
       <Option title="myrobot" />
       <Option makefile_is_custom="1" />
       <Option compiler="gcc" />
-      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\..\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\env-hooks\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\rosbuild\;CMake Files\catkin\;CMake Files\catkin\catkin_generated\;CMake Files\catkin\catkin_generated\version\;CMake Files\catkin_generated\;" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\pcl-1.7\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\vtk-5.8\;CMake Files\..\..\..\..\usr\lib\vtk-5.8\CMake\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\..\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\env-hooks\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\cmake\;CMake Files\catkin\;CMake Files\catkin\catkin_generated\;CMake Files\catkin\catkin_generated\version\;CMake Files\catkin_generated\;" />
       <Build>
       <Target title="all">
          <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
@@ -67,6 +67,66 @@
             <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
          </MakeCommands>
       </Target>
+      <Target title="actionlib_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 actionlib_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="actionlib_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 actionlib_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="actionlib_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 actionlib_generate_messages_py" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="actionlib_msgs_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 actionlib_msgs_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="actionlib_msgs_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 actionlib_msgs_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="actionlib_msgs_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 actionlib_msgs_generate_messages_py" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
       <Target title="clean_test_results">
          <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
          <Option type="4" />
@@ -85,8 +145,17 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
+            <Add option="-DEIGEN_USE_NEW_STDVECTOR" />
+            <Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET" />
+            <Add option="-DFLANN_STATIC" />
+            <Add option="-Dqh_QHpointer" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
             <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/ni" />
+            <Add directory="/usr/include/pcl-1.7" />
+            <Add directory="/usr/include/vtk-5.8" />
          </Compiler>
          <MakeCommands>
             <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 connector" />
@@ -103,8 +172,17 @@
          <Option compiler="gcc" />
          <Compiler>
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
+            <Add option="-DEIGEN_USE_NEW_STDVECTOR" />
+            <Add option="-DEIGEN_YES_I_KNOW_SPARSE_MODULE_IS_NOT_STABLE_YET" />
+            <Add option="-DFLANN_STATIC" />
+            <Add option="-Dqh_QHpointer" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
             <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/eigen3" />
+            <Add directory="/usr/include/ni" />
+            <Add directory="/usr/include/pcl-1.7" />
+            <Add directory="/usr/include/vtk-5.8" />
          </Compiler>
          <MakeCommands>
             <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 connector/fast" />
@@ -118,6 +196,36 @@
          <Option type="4" />
          <MakeCommands>
             <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 doxygen" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="geometry_msgs_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 geometry_msgs_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="geometry_msgs_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 geometry_msgs_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="geometry_msgs_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 geometry_msgs_generate_messages_py" />
             <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
             <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
             <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
@@ -203,6 +311,66 @@
             <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
          </MakeCommands>
       </Target>
+      <Target title="roscpp_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 roscpp_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="roscpp_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 roscpp_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="roscpp_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 roscpp_generate_messages_py" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rosgraph_msgs_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 rosgraph_msgs_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rosgraph_msgs_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 rosgraph_msgs_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rosgraph_msgs_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 rosgraph_msgs_generate_messages_py" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
       <Target title="rospack_genmsg">
          <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
          <Option type="4" />
@@ -238,6 +406,66 @@
          <Option type="4" />
          <MakeCommands>
             <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 run_tests" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="sensor_msgs_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 sensor_msgs_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="sensor_msgs_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 sensor_msgs_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="sensor_msgs_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 sensor_msgs_generate_messages_py" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="std_msgs_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="std_msgs_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="std_msgs_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 std_msgs_generate_messages_py" />
             <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
             <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
             <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
@@ -293,6 +521,66 @@
             <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
          </MakeCommands>
       </Target>
+      <Target title="tf2_msgs_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 tf2_msgs_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="tf2_msgs_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 tf2_msgs_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="tf2_msgs_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 tf2_msgs_generate_messages_py" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="tf_generate_messages_cpp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 tf_generate_messages_cpp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="tf_generate_messages_lisp">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 tf_generate_messages_lisp" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="tf_generate_messages_py">
+         <Option working_dir="/home/lazorg/my_ros_package/myrobot" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 tf_generate_messages_py" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/lazorg/my_ros_package/myrobot/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
       <Target title="gtest">
          <Option output="/home/lazorg/my_ros_package/myrobot/lib/libgtest.so" prefix_auto="0" extension_auto="0" />
          <Option working_dir="/home/lazorg/my_ros_package/myrobot/gtest" />
@@ -303,7 +591,6 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
-            <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -324,7 +611,6 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
-            <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -345,7 +631,6 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
-            <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -366,7 +651,6 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
-            <Add directory="/opt/ros/indigo/include" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -399,6 +683,84 @@
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/src/gtest/cmake/internal_utils.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\usr\src\gtest\cmake\" />
       </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/share/pcl-1.7/PCLConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\share\pcl-1.7\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/share/pcl-1.7/PCLConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\share\pcl-1.7\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Java.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Python.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Tcl.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfigQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKTargets.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKTargets-release.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Java.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Python.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Tcl.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfigQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Java.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Python.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfig-Tcl.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/VTKConfigQt.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/UseVTK.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../usr/lib/vtk-5.8/CMake/vtkMakeInstantiator.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\usr\lib\vtk-5.8\CMake\" />
+      </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/ros/core/rosbuild/rosbuild.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\rosbuild\" />
       </Unit>
@@ -413,15 +775,6 @@
       </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/ros/core/rosbuild/rosconfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\rosbuild\" />
-      </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
-      </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
-      </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunit-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
       </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
@@ -513,6 +866,18 @@
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
       </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/platform/lsb.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\" />
       </Unit>
@@ -591,6 +956,15 @@
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/env-hooks/05.catkin-test-results.sh.develspace.in">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\env-hooks\" />
       </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunit-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
+      </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roslib/cmake/roslibConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\" />
       </Unit>
@@ -610,6 +984,12 @@
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\" />
       </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/genmsg/cmake/genmsg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/genmsg/cmake/genmsgConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/genmsg/cmake/genmsgConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\" />
       </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/genmsg/cmake/genmsgConfig-version.cmake">
@@ -651,11 +1031,188 @@
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp/rosbuild/roscpp.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\rosbuild\" />
       </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rospy/rosbuild/rospy.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\rosbuild\" />
       </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rospy/cmake/rospyConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rospy/cmake/rospyConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf/cmake/tfConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf/cmake/tfConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf/cmake/tf-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/message_runtime/cmake/message_runtimeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/message_runtime/cmake/message_runtimeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/cpp_common/cmake/cpp_commonConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/cpp_common/cmake/cpp_commonConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rostime/cmake/rostimeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rostime/cmake/rostimeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/message_filters/cmake/message_filtersConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/message_filters/cmake/message_filtersConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsoleConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsoleConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsole-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2_ros/cmake/tf2_rosConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2_ros/cmake/tf2_rosConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/actionlib/cmake/actionlibConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/actionlib/cmake/actionlibConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/actionlib/cmake/actionlib-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/actionlib_msgs/cmake/actionlib_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/actionlib_msgs/cmake/actionlib_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/actionlib_msgs/cmake/actionlib_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/actionlib_msgs/cmake/actionlib_msgs-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosgraph/cmake/rosgraphConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosgraph/cmake/rosgraphConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2/cmake/tf2Config-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2/cmake/tf2Config.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2_msgs/cmake/tf2_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2_msgs/cmake/tf2_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2_msgs/cmake/tf2_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/message_generation/cmake/message_generationConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/message_generation/cmake/message_generationConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2_py/cmake/tf2_pyConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/tf2_py/cmake/tf2_pyConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\cmake\" />
+      </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/catkin/catkin_generated/version/package.cmake">
           <Option virtualFolder="CMake Files\catkin\catkin_generated\version\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/catkin_generated/ordered_paths.cmake">
+          <Option virtualFolder="CMake Files\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/catkin_generated/ordered_paths.cmake">
+          <Option virtualFolder="CMake Files\catkin_generated\" />
       </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/catkin_generated/ordered_paths.cmake">
           <Option virtualFolder="CMake Files\catkin_generated\" />

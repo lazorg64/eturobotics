@@ -102,6 +102,8 @@ CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/share/tf2_ros/pack
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/share/tf/package.xml
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/share/rosserial_client/package.xml
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/share/rosserial_arduino/package.xml
+CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/share/angles/package.xml
+CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/share/laser_geometry/package.xml
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/lazorg/my_ros_package/myrobot/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/connector.dir/src/connector.cpp.o"
 	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/connector.dir/src/connector.cpp.o -c /home/lazorg/my_ros_package/myrobot/src/connector.cpp
@@ -132,6 +134,28 @@ connector_EXTERNAL_OBJECTS =
 
 bin/connector: CMakeFiles/connector.dir/src/connector.cpp.o
 bin/connector: CMakeFiles/connector.dir/build.make
+bin/connector: /opt/ros/indigo/lib/libtf.so
+bin/connector: /opt/ros/indigo/lib/libtf2_ros.so
+bin/connector: /opt/ros/indigo/lib/libactionlib.so
+bin/connector: /opt/ros/indigo/lib/libmessage_filters.so
+bin/connector: /opt/ros/indigo/lib/libroscpp.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libboost_signals.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+bin/connector: /opt/ros/indigo/lib/libxmlrpcpp.so
+bin/connector: /opt/ros/indigo/lib/libtf2.so
+bin/connector: /opt/ros/indigo/lib/libroscpp_serialization.so
+bin/connector: /opt/ros/indigo/lib/librosconsole.so
+bin/connector: /opt/ros/indigo/lib/librosconsole_log4cxx.so
+bin/connector: /opt/ros/indigo/lib/librosconsole_backend_interface.so
+bin/connector: /usr/lib/liblog4cxx.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libboost_regex.so
+bin/connector: /opt/ros/indigo/lib/librostime.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
+bin/connector: /opt/ros/indigo/lib/libcpp_common.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libboost_system.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libboost_thread.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libpthread.so
+bin/connector: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so
 bin/connector: CMakeFiles/connector.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --red --bold "Linking CXX executable bin/connector"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/connector.dir/link.txt --verbose=$(VERBOSE)

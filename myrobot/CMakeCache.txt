@@ -516,8 +516,17 @@ _CATKIN_GTEST_SRC:FILEPATH=/usr/src/gtest/src/gtest.cc
 //Path to a file.
 _file_name:FILEPATH=/home/lazorg/my_ros_package/myrobot/src/connector.cpp
 
+//The directory containing a CMake configuration file for actionlib.
+actionlib_DIR:PATH=/opt/ros/indigo/share/actionlib/cmake
+
+//The directory containing a CMake configuration file for actionlib_msgs.
+actionlib_msgs_DIR:PATH=/opt/ros/indigo/share/actionlib_msgs/cmake
+
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/indigo/share/catkin/cmake
+
+//The directory containing a CMake configuration file for cpp_common.
+cpp_common_DIR:PATH=/opt/ros/indigo/share/cpp_common/cmake
 
 //The directory containing a CMake configuration file for gencpp.
 gencpp_DIR:PATH=/opt/ros/indigo/share/gencpp/cmake
@@ -530,6 +539,9 @@ genmsg_DIR:PATH=/opt/ros/indigo/share/genmsg/cmake
 
 //The directory containing a CMake configuration file for genpy.
 genpy_DIR:PATH=/opt/ros/indigo/share/genpy/cmake
+
+//The directory containing a CMake configuration file for geometry_msgs.
+geometry_msgs_DIR:PATH=/opt/ros/indigo/share/geometry_msgs/cmake
 
 //Value Computed by CMake
 gtest_BINARY_DIR:STATIC=/home/lazorg/my_ros_package/myrobot/gtest
@@ -557,7 +569,16 @@ gtest_force_shared_crt:BOOL=OFF
 gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 
 //Path to a library.
-lib:FILEPATH=/opt/ros/indigo/lib/libroslib.so
+lib:FILEPATH=/opt/ros/indigo/lib/libtf2.so
+
+//The directory containing a CMake configuration file for message_filters.
+message_filters_DIR:PATH=/opt/ros/indigo/share/message_filters/cmake
+
+//The directory containing a CMake configuration file for message_generation.
+message_generation_DIR:PATH=/opt/ros/indigo/share/message_generation/cmake
+
+//The directory containing a CMake configuration file for message_runtime.
+message_runtime_DIR:PATH=/opt/ros/indigo/share/message_runtime/cmake
 
 //Value Computed by CMake
 myrobot_BINARY_DIR:STATIC=/home/lazorg/my_ros_package/myrobot
@@ -565,11 +586,59 @@ myrobot_BINARY_DIR:STATIC=/home/lazorg/my_ros_package/myrobot
 //Value Computed by CMake
 myrobot_SOURCE_DIR:STATIC=/home/lazorg/my_ros_package/myrobot
 
+//The directory containing a CMake configuration file for rosconsole.
+rosconsole_DIR:PATH=/opt/ros/indigo/share/rosconsole/cmake
+
+//The directory containing a CMake configuration file for roscpp.
+roscpp_DIR:PATH=/opt/ros/indigo/share/roscpp/cmake
+
+//The directory containing a CMake configuration file for roscpp_serialization.
+roscpp_serialization_DIR:PATH=/opt/ros/indigo/share/roscpp_serialization/cmake
+
+//The directory containing a CMake configuration file for roscpp_traits.
+roscpp_traits_DIR:PATH=/opt/ros/indigo/share/roscpp_traits/cmake
+
+//The directory containing a CMake configuration file for rosgraph.
+rosgraph_DIR:PATH=/opt/ros/indigo/share/rosgraph/cmake
+
+//The directory containing a CMake configuration file for rosgraph_msgs.
+rosgraph_msgs_DIR:PATH=/opt/ros/indigo/share/rosgraph_msgs/cmake
+
 //The directory containing a CMake configuration file for roslib.
 roslib_DIR:PATH=/opt/ros/indigo/share/roslib/cmake
 
+//The directory containing a CMake configuration file for rospy.
+rospy_DIR:PATH=/opt/ros/indigo/share/rospy/cmake
+
+//The directory containing a CMake configuration file for rostime.
+rostime_DIR:PATH=/opt/ros/indigo/share/rostime/cmake
+
 //The directory containing a CMake configuration file for rosunit.
 rosunit_DIR:PATH=/opt/ros/indigo/share/rosunit/cmake
+
+//The directory containing a CMake configuration file for sensor_msgs.
+sensor_msgs_DIR:PATH=/opt/ros/indigo/share/sensor_msgs/cmake
+
+//The directory containing a CMake configuration file for std_msgs.
+std_msgs_DIR:PATH=/opt/ros/indigo/share/std_msgs/cmake
+
+//The directory containing a CMake configuration file for tf2.
+tf2_DIR:PATH=/opt/ros/indigo/share/tf2/cmake
+
+//The directory containing a CMake configuration file for tf2_msgs.
+tf2_msgs_DIR:PATH=/opt/ros/indigo/share/tf2_msgs/cmake
+
+//The directory containing a CMake configuration file for tf2_py.
+tf2_py_DIR:PATH=/opt/ros/indigo/share/tf2_py/cmake
+
+//The directory containing a CMake configuration file for tf2_ros.
+tf2_ros_DIR:PATH=/opt/ros/indigo/share/tf2_ros/cmake
+
+//The directory containing a CMake configuration file for tf.
+tf_DIR:PATH=/opt/ros/indigo/share/tf/cmake
+
+//The directory containing a CMake configuration file for xmlrpcpp.
+xmlrpcpp_DIR:PATH=/opt/ros/indigo/share/xmlrpcpp/cmake
 
 
 ########################
@@ -999,17 +1068,17 @@ __pkg_config_checked_PC_EIGEN:INTERNAL=1
 __pkg_config_checked_PC_FLANN:INTERNAL=1
 __pkg_config_checked_PC_OPENNI:INTERNAL=1
 _rosbuild_EXPORTS:INTERNAL=
-_rosbuild_cached_flag_time:INTERNAL=1424955938.58
+_rosbuild_cached_flag_time:INTERNAL=1427410431.1
 _roslang_LANGS:INTERNAL=roslisp
-_rospack_deps_manifests_invoke_result:INTERNAL=/opt/ros/indigo/share/cpp_common/package.xml;/opt/ros/indigo/share/rostime/package.xml;/opt/ros/indigo/share/roscpp_traits/package.xml;/opt/ros/indigo/share/roscpp_serialization/package.xml;/opt/ros/indigo/share/genmsg/package.xml;/opt/ros/indigo/share/genpy/package.xml;/opt/ros/indigo/share/message_runtime/package.xml;/opt/ros/indigo/share/std_msgs/package.xml;/opt/ros/indigo/share/catkin/package.xml;/opt/ros/indigo/share/gencpp/package.xml;/opt/ros/indigo/share/genlisp/package.xml;/opt/ros/indigo/share/message_generation/package.xml;/opt/ros/indigo/share/rosbuild/package.xml;/opt/ros/indigo/share/rosconsole/package.xml;/opt/ros/indigo/share/rosgraph_msgs/package.xml;/opt/ros/indigo/share/xmlrpcpp/package.xml;/opt/ros/indigo/share/roscpp/package.xml;/opt/ros/indigo/share/rosgraph/package.xml;/opt/ros/indigo/share/rospack/package.xml;/opt/ros/indigo/share/roslib/package.xml;/opt/ros/indigo/share/rospy/package.xml;/opt/ros/indigo/share/rosserial_msgs/package.xml;/opt/ros/indigo/share/geometry_msgs/package.xml;/opt/ros/indigo/share/message_filters/package.xml;/opt/ros/indigo/share/rosclean/package.xml;/opt/ros/indigo/share/rosmaster/package.xml;/opt/ros/indigo/share/rosout/package.xml;/opt/ros/indigo/share/rosparam/package.xml;/opt/ros/indigo/share/rosunit/package.xml;/opt/ros/indigo/share/roslaunch/package.xml;/opt/ros/indigo/share/roslz4/package.xml;/opt/ros/indigo/share/rosbag_storage/package.xml;/opt/ros/indigo/share/topic_tools/package.xml;/opt/ros/indigo/share/rosbag/package.xml;/opt/ros/indigo/share/rostopic/package.xml;/opt/ros/indigo/share/rosnode/package.xml;/opt/ros/indigo/share/rosmsg/package.xml;/opt/ros/indigo/share/rosservice/package.xml;/opt/ros/indigo/share/roswtf/package.xml;/opt/ros/indigo/share/sensor_msgs/package.xml;/opt/ros/indigo/share/actionlib_msgs/package.xml;/opt/ros/indigo/share/tf2_msgs/package.xml;/opt/ros/indigo/share/tf2/package.xml;/opt/ros/indigo/share/rostest/package.xml;/opt/ros/indigo/share/actionlib/package.xml;/opt/ros/indigo/share/tf2_py/package.xml;/opt/ros/indigo/share/tf2_ros/package.xml;/opt/ros/indigo/share/tf/package.xml;/opt/ros/indigo/share/rosserial_client/package.xml;/opt/ros/indigo/share/rosserial_arduino/package.xml
+_rospack_deps_manifests_invoke_result:INTERNAL=/opt/ros/indigo/share/cpp_common/package.xml;/opt/ros/indigo/share/rostime/package.xml;/opt/ros/indigo/share/roscpp_traits/package.xml;/opt/ros/indigo/share/roscpp_serialization/package.xml;/opt/ros/indigo/share/genmsg/package.xml;/opt/ros/indigo/share/genpy/package.xml;/opt/ros/indigo/share/message_runtime/package.xml;/opt/ros/indigo/share/std_msgs/package.xml;/opt/ros/indigo/share/catkin/package.xml;/opt/ros/indigo/share/gencpp/package.xml;/opt/ros/indigo/share/genlisp/package.xml;/opt/ros/indigo/share/message_generation/package.xml;/opt/ros/indigo/share/rosbuild/package.xml;/opt/ros/indigo/share/rosconsole/package.xml;/opt/ros/indigo/share/rosgraph_msgs/package.xml;/opt/ros/indigo/share/xmlrpcpp/package.xml;/opt/ros/indigo/share/roscpp/package.xml;/opt/ros/indigo/share/rosgraph/package.xml;/opt/ros/indigo/share/rospack/package.xml;/opt/ros/indigo/share/roslib/package.xml;/opt/ros/indigo/share/rospy/package.xml;/opt/ros/indigo/share/rosserial_msgs/package.xml;/opt/ros/indigo/share/geometry_msgs/package.xml;/opt/ros/indigo/share/message_filters/package.xml;/opt/ros/indigo/share/rosclean/package.xml;/opt/ros/indigo/share/rosmaster/package.xml;/opt/ros/indigo/share/rosout/package.xml;/opt/ros/indigo/share/rosparam/package.xml;/opt/ros/indigo/share/rosunit/package.xml;/opt/ros/indigo/share/roslaunch/package.xml;/opt/ros/indigo/share/roslz4/package.xml;/opt/ros/indigo/share/rosbag_storage/package.xml;/opt/ros/indigo/share/topic_tools/package.xml;/opt/ros/indigo/share/rosbag/package.xml;/opt/ros/indigo/share/rostopic/package.xml;/opt/ros/indigo/share/rosnode/package.xml;/opt/ros/indigo/share/rosmsg/package.xml;/opt/ros/indigo/share/rosservice/package.xml;/opt/ros/indigo/share/roswtf/package.xml;/opt/ros/indigo/share/sensor_msgs/package.xml;/opt/ros/indigo/share/actionlib_msgs/package.xml;/opt/ros/indigo/share/tf2_msgs/package.xml;/opt/ros/indigo/share/tf2/package.xml;/opt/ros/indigo/share/rostest/package.xml;/opt/ros/indigo/share/actionlib/package.xml;/opt/ros/indigo/share/tf2_py/package.xml;/opt/ros/indigo/share/tf2_ros/package.xml;/opt/ros/indigo/share/tf/package.xml;/opt/ros/indigo/share/rosserial_client/package.xml;/opt/ros/indigo/share/rosserial_arduino/package.xml;/opt/ros/indigo/share/angles/package.xml;/opt/ros/indigo/share/laser_geometry/package.xml
 _rospack_msgsrv_gen_invoke_result:INTERNAL=
 myrobot_CFLAGS_OTHER:INTERNAL=
 myrobot_INCLUDEDIR:INTERNAL=
-myrobot_INCLUDE_DIRS:INTERNAL=/opt/ros/indigo/include
+myrobot_INCLUDE_DIRS:INTERNAL=/opt/ros/indigo/include;/usr/include/eigen3
 myrobot_LDFLAGS_OTHER:INTERNAL=
-myrobot_LIBRARIES:INTERNAL=roscpp;pthread;:/usr/lib/x86_64-linux-gnu/libboost_signals.so;:/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;rosconsole;rosconsole_log4cxx;rosconsole_backend_interface;:/usr/lib/liblog4cxx.so;:/usr/lib/x86_64-linux-gnu/libboost_regex.so;xmlrpcpp;roscpp_serialization;rostime;:/usr/lib/x86_64-linux-gnu/libboost_date_time.so;cpp_common;:/usr/lib/x86_64-linux-gnu/libboost_system.so;:/usr/lib/x86_64-linux-gnu/libboost_thread.so;:/usr/lib/x86_64-linux-gnu/libpthread.so;:/usr/lib/x86_64-linux-gnu/libconsole_bridge.so
+myrobot_LIBRARIES:INTERNAL=laser_geometry;tf;tf2_ros;actionlib;message_filters;roscpp;pthread;:/usr/lib/x86_64-linux-gnu/libboost_signals.so;:/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;rosconsole;rosconsole_log4cxx;rosconsole_backend_interface;:/usr/lib/liblog4cxx.so;:/usr/lib/x86_64-linux-gnu/libboost_regex.so;xmlrpcpp;tf2;roscpp_serialization;rostime;:/usr/lib/x86_64-linux-gnu/libboost_date_time.so;cpp_common;:/usr/lib/x86_64-linux-gnu/libboost_system.so;:/usr/lib/x86_64-linux-gnu/libboost_thread.so;:/usr/lib/x86_64-linux-gnu/libpthread.so;:/usr/lib/x86_64-linux-gnu/libconsole_bridge.so
 myrobot_LIBRARY_DIRS:INTERNAL=/opt/ros/indigo/lib
-myrobot_cached_manifest_list:INTERNAL=/home/lazorg/my_ros_package/myrobot/manifest.xml;/opt/ros/indigo/share/cpp_common/package.xml;/opt/ros/indigo/share/rostime/package.xml;/opt/ros/indigo/share/roscpp_traits/package.xml;/opt/ros/indigo/share/roscpp_serialization/package.xml;/opt/ros/indigo/share/genmsg/package.xml;/opt/ros/indigo/share/genpy/package.xml;/opt/ros/indigo/share/message_runtime/package.xml;/opt/ros/indigo/share/std_msgs/package.xml;/opt/ros/indigo/share/catkin/package.xml;/opt/ros/indigo/share/gencpp/package.xml;/opt/ros/indigo/share/genlisp/package.xml;/opt/ros/indigo/share/message_generation/package.xml;/opt/ros/indigo/share/rosbuild/package.xml;/opt/ros/indigo/share/rosconsole/package.xml;/opt/ros/indigo/share/rosgraph_msgs/package.xml;/opt/ros/indigo/share/xmlrpcpp/package.xml;/opt/ros/indigo/share/roscpp/package.xml;/opt/ros/indigo/share/rosgraph/package.xml;/opt/ros/indigo/share/rospack/package.xml;/opt/ros/indigo/share/roslib/package.xml;/opt/ros/indigo/share/rospy/package.xml;/opt/ros/indigo/share/rosserial_msgs/package.xml;/opt/ros/indigo/share/geometry_msgs/package.xml;/opt/ros/indigo/share/message_filters/package.xml;/opt/ros/indigo/share/rosclean/package.xml;/opt/ros/indigo/share/rosmaster/package.xml;/opt/ros/indigo/share/rosout/package.xml;/opt/ros/indigo/share/rosparam/package.xml;/opt/ros/indigo/share/rosunit/package.xml;/opt/ros/indigo/share/roslaunch/package.xml;/opt/ros/indigo/share/roslz4/package.xml;/opt/ros/indigo/share/rosbag_storage/package.xml;/opt/ros/indigo/share/topic_tools/package.xml;/opt/ros/indigo/share/rosbag/package.xml;/opt/ros/indigo/share/rostopic/package.xml;/opt/ros/indigo/share/rosnode/package.xml;/opt/ros/indigo/share/rosmsg/package.xml;/opt/ros/indigo/share/rosservice/package.xml;/opt/ros/indigo/share/roswtf/package.xml;/opt/ros/indigo/share/sensor_msgs/package.xml;/opt/ros/indigo/share/actionlib_msgs/package.xml;/opt/ros/indigo/share/tf2_msgs/package.xml;/opt/ros/indigo/share/tf2/package.xml;/opt/ros/indigo/share/rostest/package.xml;/opt/ros/indigo/share/actionlib/package.xml;/opt/ros/indigo/share/tf2_py/package.xml;/opt/ros/indigo/share/tf2_ros/package.xml;/opt/ros/indigo/share/tf/package.xml;/opt/ros/indigo/share/rosserial_client/package.xml;/opt/ros/indigo/share/rosserial_arduino/package.xml
+myrobot_cached_manifest_list:INTERNAL=/home/lazorg/my_ros_package/myrobot/manifest.xml;/opt/ros/indigo/share/cpp_common/package.xml;/opt/ros/indigo/share/rostime/package.xml;/opt/ros/indigo/share/roscpp_traits/package.xml;/opt/ros/indigo/share/roscpp_serialization/package.xml;/opt/ros/indigo/share/genmsg/package.xml;/opt/ros/indigo/share/genpy/package.xml;/opt/ros/indigo/share/message_runtime/package.xml;/opt/ros/indigo/share/std_msgs/package.xml;/opt/ros/indigo/share/catkin/package.xml;/opt/ros/indigo/share/gencpp/package.xml;/opt/ros/indigo/share/genlisp/package.xml;/opt/ros/indigo/share/message_generation/package.xml;/opt/ros/indigo/share/rosbuild/package.xml;/opt/ros/indigo/share/rosconsole/package.xml;/opt/ros/indigo/share/rosgraph_msgs/package.xml;/opt/ros/indigo/share/xmlrpcpp/package.xml;/opt/ros/indigo/share/roscpp/package.xml;/opt/ros/indigo/share/rosgraph/package.xml;/opt/ros/indigo/share/rospack/package.xml;/opt/ros/indigo/share/roslib/package.xml;/opt/ros/indigo/share/rospy/package.xml;/opt/ros/indigo/share/rosserial_msgs/package.xml;/opt/ros/indigo/share/geometry_msgs/package.xml;/opt/ros/indigo/share/message_filters/package.xml;/opt/ros/indigo/share/rosclean/package.xml;/opt/ros/indigo/share/rosmaster/package.xml;/opt/ros/indigo/share/rosout/package.xml;/opt/ros/indigo/share/rosparam/package.xml;/opt/ros/indigo/share/rosunit/package.xml;/opt/ros/indigo/share/roslaunch/package.xml;/opt/ros/indigo/share/roslz4/package.xml;/opt/ros/indigo/share/rosbag_storage/package.xml;/opt/ros/indigo/share/topic_tools/package.xml;/opt/ros/indigo/share/rosbag/package.xml;/opt/ros/indigo/share/rostopic/package.xml;/opt/ros/indigo/share/rosnode/package.xml;/opt/ros/indigo/share/rosmsg/package.xml;/opt/ros/indigo/share/rosservice/package.xml;/opt/ros/indigo/share/roswtf/package.xml;/opt/ros/indigo/share/sensor_msgs/package.xml;/opt/ros/indigo/share/actionlib_msgs/package.xml;/opt/ros/indigo/share/tf2_msgs/package.xml;/opt/ros/indigo/share/tf2/package.xml;/opt/ros/indigo/share/rostest/package.xml;/opt/ros/indigo/share/actionlib/package.xml;/opt/ros/indigo/share/tf2_py/package.xml;/opt/ros/indigo/share/tf2_ros/package.xml;/opt/ros/indigo/share/tf/package.xml;/opt/ros/indigo/share/rosserial_client/package.xml;/opt/ros/indigo/share/rosserial_arduino/package.xml;/opt/ros/indigo/share/angles/package.xml;/opt/ros/indigo/share/laser_geometry/package.xml
 myrobot_temp:INTERNAL=
 roslib_path:INTERNAL=/opt/ros/indigo/share/roslib
 roslisp_CMAKE:INTERNAL=/opt/ros/indigo/share/roslisp/rosbuild/roslisp.cmake
