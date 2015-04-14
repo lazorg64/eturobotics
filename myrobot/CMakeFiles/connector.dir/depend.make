@@ -5,7 +5,10 @@ CMakeFiles/connector.dir/src/connector.cpp.o: src/connector.cpp
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/XmlRpcDecl.h
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/XmlRpcValue.h
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/Point.h
+CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/Point32.h
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/PointStamped.h
+CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/Polygon.h
+CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/PolygonStamped.h
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/Pose.h
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/PoseStamped.h
 CMakeFiles/connector.dir/src/connector.cpp.o: /opt/ros/indigo/include/geometry_msgs/Quaternion.h

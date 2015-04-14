@@ -5,7 +5,7 @@
       <Option title="gtest" />
       <Option makefile_is_custom="1" />
       <Option compiler="gcc" />
-      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\pcl-1.7\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\vtk-5.8\;CMake Files\..\..\..\..\usr\lib\vtk-5.8\CMake\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\..\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\env-hooks\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\cmake\;CMake Files\catkin\;CMake Files\catkin\catkin_generated\;CMake Files\catkin\catkin_generated\version\;CMake Files\catkin_generated\;" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\pcl-1.7\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\vtk-5.8\;CMake Files\..\..\..\..\usr\lib\vtk-5.8\CMake\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\;CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\..\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\env-hooks\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslang\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslisp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\rosbuild\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\cmake\;CMake Files\catkin\;CMake Files\catkin\catkin_generated\;CMake Files\catkin\catkin_generated\version\;CMake Files\catkin_generated\;" />
       <Build>
       <Target title="all">
          <Option working_dir="/home/lazorg/my_ros_package/myrobot/gtest" />
@@ -27,6 +27,8 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/eigen3" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -47,6 +49,8 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/eigen3" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -67,6 +71,8 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/eigen3" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -87,6 +93,8 @@
             <Add option="-DGTEST_CREATE_SHARED_LIBRARY=1" />
             <Add option="-DROS_PACKAGE_NAME=&quot;myrobot&quot;" />
             <Add directory="/home/lazorg/my_ros_package/myrobot/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/eigen3" />
             <Add directory="/usr/src/gtest" />
             <Add directory="/usr/src/gtest/include" />
          </Compiler>
@@ -210,6 +218,15 @@
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/ros/core/rosbuild/rosconfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\ros\core\rosbuild\" />
       </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
+      </Unit>
+      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunit-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
+      </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
       </Unit>
@@ -306,12 +323,6 @@
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
       </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
-      </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
-      </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/platform/lsb.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\" />
       </Unit>
@@ -389,15 +400,6 @@
       </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/catkin/cmake/env-hooks/05.catkin-test-results.sh.develspace.in">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\env-hooks\" />
-      </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
-      </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunitConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
-      </Unit>
-      <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/rosunit/cmake/rosunit-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosunit\cmake\" />
       </Unit>
       <Unit filename="/home/lazorg/my_ros_package/myrobot/../../../../opt/ros/indigo/share/roslib/cmake/roslibConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\" />
