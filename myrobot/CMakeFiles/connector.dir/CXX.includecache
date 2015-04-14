@@ -35,6 +35,8 @@ std_msgs/UInt32.h
 /home/lazorg/my_ros_package/myrobot/src/std_msgs/UInt32.h
 sstream
 -
+sstream
+-
 iostream
 -
 string

@@ -11,7 +11,7 @@
 #include "std_msgs/Float32MultiArray.h"
 #include "std_msgs/String.h"
 #include "std_msgs/UInt32.h"
-
+#include <sstream>
 #include <sstream>
 #include <iostream>
 #include <string>
@@ -21,6 +21,7 @@
 typedef pcl::PointCloud<pcl::PointXYZI> PCloud;
 
 tf::Vector3 base_link_pos;
+
 
 struct ultrasonic_scan{
     unsigned int front;
@@ -36,6 +37,9 @@ int counter;
 
 char direction;
 char state;
+int moveangle;
+
+
 
 bool sync_resp;
 
@@ -120,59 +124,62 @@ void getSensorsData()
 
 }
 
+void sendChar(std::string str)
+{
+    std_msgs::String output;
+    output.data = str.c_str();
+    chatter_pub.publish(output);
+}
+
+std::string intToString (int Number )
+{
+    std::ostringstream ss;
+    ss << Number;
+    return ss.str();
+}
+
+void rotAngle(int angle)
+{
+    std::string str;
+    str = "a " + intToString(angle);
+    std_msgs::String output;
+    output.data = str.c_str();
+    chatter_pub.publish(output);
+}
+
 void move()
 {
-    if(last_scan.front>20&&(state=='s'))
+    if(last_scan.front>20)
     {
-        std_msgs::String output;
-        std::string str;
-        str = "w";
         state = 'w';
-        output.data = str.c_str();
-        chatter_pub.publish(output);
-    }
-    if(last_scan.front<20&&(state=='w'))
-    {
-
-        std_msgs::String output;
-        std::string str;
-        str = "s";
-        state = 's';
-        output.data = str.c_str();
-        chatter_pub.publish(output);
-    }
-    if(last_scan.front<20&&(state=='s'))
-    {
-        std_msgs::String output;
-        std::string str;
-        if(last_scan.left>last_scan.right)
-            str = "a 30";
+        sendChar("w");
+        usleep(100000);
+        if(last_scan.right<20)
+        {
+            rotAngle(80);
+        }
+        else if(last_scan.right>20)
+        {
+            rotAngle(100);
+        }
         else
-            str = "a 150";
-        output.data = str.c_str();
-        chatter_pub.publish(output);
-
-        str = "w";
-        state = 'w';
-        output.data = str.c_str();
-        chatter_pub.publish(output);
-
+        {
+            rotAngle(90);
+        }
+    }
+    else
+    {
+        rotAngle(30);
         usleep(1000000);
-
-        str = "s";
-        state = 's';
-        output.data = str.c_str();
-        chatter_pub.publish(output);
-
-        str = "a 90";
-        output.data = str.c_str();
-        chatter_pub.publish(output);
-        usleep(1000000);
-
+        rotAngle(90);
 
     }
+
+
 
 }
+
+
 
      
 int main(int argc, char **argv) {
@@ -201,7 +208,7 @@ int main(int argc, char **argv) {
  spinner.start();
  usleep(1000000);
 
- state = 's';
+ state = 'q';
 
  std::string str;
  std_msgs::String output;
@@ -209,6 +216,8 @@ int main(int argc, char **argv) {
  output.data = str.c_str();
  chatter_pub.publish(output);
  usleep(1000000);
+
+ int spinCount = 100;
 
  while (ros::ok()) {
 
@@ -229,10 +238,18 @@ int main(int argc, char **argv) {
 
   std::cout << "Moved!" << std::endl;
 
+  spinCount --;
+  if(spinCount<=0)
+  {
+      state = 'q';
+      sendChar("q");
+      exit(0);
+  }
   loop_rate.sleep();
 
+
  }
- ros::waitForShutdown();
+ //ros::waitForShutdown();
  return 0; 
 }
 
